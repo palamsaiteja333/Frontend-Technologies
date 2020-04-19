@@ -1,0 +1,31 @@
+body{
+  background-color: black;
+  color: white;
+
+}
+
+.firstdiv
+{
+  background: red
+}
+
+.seconddiv{
+  background-color: blue;
+}
+
+#firstpara{
+  color: violet;
+}
+
+li
+{
+  color: green;
+}
+li a{
+  background: yellow;
+  color: red;
+}
+
+li a[href="www.npr.com"]{
+  background: rgba(255, 0, 0, 0.5);
+}

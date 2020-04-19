@@ -1,0 +1,38 @@
+body
+{
+  background: lightblue;
+}
+
+h1
+{
+  border-style: solid;
+}
+h3
+{
+  color: violet;
+}
+
+#firstitem
+{
+  color:violet;
+}
+
+p{
+  background: yellow;
+}
+
+div{
+  background: blue;
+  border-style: dotted;
+  border-color: yellow;
+  border-width: 5px;
+}
+
+#login{
+  border-color: red;
+}
+
+#textarea{
+  border-color: grey;
+  border-width: 5px;
+}
