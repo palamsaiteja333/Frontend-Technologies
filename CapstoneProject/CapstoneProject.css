@@ -1,0 +1,22 @@
+body{
+  background: blue;
+  margin: 10px 50px 50px 50px;
+  margin-top: 0px;
+
+}
+
+div{
+  background: black;
+  color: white;
+  text-align: center;
+
+}
+#signup{
+
+background-color: orange;
+color: white;
+border: 20px;
+padding: 20px;
+text-align: center;
+border-radius: 10px;
+}
