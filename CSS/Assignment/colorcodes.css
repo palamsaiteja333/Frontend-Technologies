@@ -1,0 +1,32 @@
+td{
+  height: 200px;
+  width: 100px;
+  background-color: black;
+}
+
+#td1{
+  background-color: blue;
+}
+
+#td2{
+    background-color: red;
+
+}
+
+#td3{
+  background-color: green;
+}
+
+#td4{
+    background-color: black;
+
+}
+
+label{
+  margin-left: 500px;
+  margin-top: 250px;
+}
+.table{
+  margin:auto;
+
+}
